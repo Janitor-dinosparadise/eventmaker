@@ -1,0 +1,5 @@
+{
+  "token": "BOT TOKEN", // replace this ones with you're own custom ones
+  "guildId": "ID of discord that you want it in ", // replace this ones with you're own custom ones
+  "clientId": "id of bot in discord " // replace this ones with you're own custom ones
+}
